@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "chigo@213",
+    "database": "codegigs",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "chigo@213",
+    "database": "codegigs",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "chigo@213",
+    "database": "codegigs",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
